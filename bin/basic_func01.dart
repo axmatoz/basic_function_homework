@@ -2,8 +2,9 @@
 
 //  Return the value 0
 int func() {
-  
   return 0;
 }
 
-void main() {}
+void main() {
+  print(func());
+}

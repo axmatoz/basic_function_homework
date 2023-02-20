@@ -1,4 +1,9 @@
-// Create a function called func.
+String func() {
+  return "codschooluz";
+}
 
+// Create a function called func.
 // Return the value "codeschooluz"
-void main() {}
+void main() {
+  print(func());
+}
