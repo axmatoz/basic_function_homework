@@ -6,5 +6,6 @@ int func(int a) {
 
 //  Return the negative value of a.
 void main() {
-  print(func(-789654));
+  print(func(-789658));
 }
+ 
