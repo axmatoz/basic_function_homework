@@ -6,5 +6,5 @@ int func(int a) {
 
 // Return the value integer type.
 void main() {
-  print(func());
+  print(func(55));
 }
