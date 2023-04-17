@@ -1,5 +1,5 @@
 double func() {
-  return 1.20;
+  return 2.20;
 }
 
 // Create a function called func.
