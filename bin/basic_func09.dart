@@ -6,5 +6,5 @@ int func(int a) {
 
 //  decrease the value of a to one and return
 void main() {
-  print(func(9));
+  print(func(10));
 }
