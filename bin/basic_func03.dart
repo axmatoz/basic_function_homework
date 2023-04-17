@@ -1,5 +1,5 @@
 String func() {
-  return "codschooluz";
+  return "codschooluz.";
 }
 
 // Create a function called func.
