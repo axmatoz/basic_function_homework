@@ -1,5 +1,5 @@
-String func() {
-  return "55";
+int func(int a) {
+  return 55;
 }
 
 // Create a function called func.
