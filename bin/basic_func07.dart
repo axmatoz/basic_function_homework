@@ -6,5 +6,5 @@ int func(int a) {
 
 //  Return the value a.
 void main() {
-  print(func(655465));
+  print(func(6555524));
 }
